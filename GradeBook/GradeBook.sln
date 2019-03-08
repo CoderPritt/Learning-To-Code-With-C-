@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook", "GradeBook\GradeBook.csproj", "{F85B41A4-02B3-4AE6-AC1E-3C100A3FBF0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLogic", "StudentLogic\StudentLogic.csproj", "{14769CE9-F5B8-4635-8C5D-45DD5BCBBAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85B41A4-02B3-4AE6-AC1E-3C100A3FBF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85B41A4-02B3-4AE6-AC1E-3C100A3FBF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85B41A4-02B3-4AE6-AC1E-3C100A3FBF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85B41A4-02B3-4AE6-AC1E-3C100A3FBF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14769CE9-F5B8-4635-8C5D-45DD5BCBBAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14769CE9-F5B8-4635-8C5D-45DD5BCBBAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14769CE9-F5B8-4635-8C5D-45DD5BCBBAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14769CE9-F5B8-4635-8C5D-45DD5BCBBAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
